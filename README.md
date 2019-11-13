@@ -15,3 +15,9 @@ Knowledge &amp; Data Engineering Project; Uplifiting F1 Data into RDF
 ### 10 Properties: ###  
 1.
 2.
+
+Circuits, Laptime, Qualifying - Rob
+Constructor, CStandings, CResults - Uzair
+Driver Standings, Driver Results, Drivers_Sophie
+Pitstops, races,  - Dhruv
+status, seasons - Warren
